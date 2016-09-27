@@ -40,6 +40,7 @@ The auth token passed in the X-AUTH-TOKEN header is just the username and passwo
 
 There are 2 users included in this sample:
 >user: alice, password: alice
+
 >user: bob, password: bob
 
 ###Tests
